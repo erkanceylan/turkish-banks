@@ -537,7 +537,7 @@
    "WWW": "http://www.mlyb.com.tr",
    "KEP": "mlbank@hs01.kep.tr",
    "Eft": 129,
-   "Swift": "MEYYTRISXXX"
+   "Swift": "MEYYTRIS"
  },
  {
    "Bank Name": "Pasha Yatırım Bankası A.Ş.",
@@ -562,5 +562,41 @@
    "KEP": "scbank.eyp@hs04.kep.tr",
    "Eft": 121,
    "Swift": "BSUITRIS"
+ },
+ {
+   "Bank Name": "Albaraka Türk Katılım Bankası A.Ş.",
+   "Address": "",
+   "Chairman of the Board": "",
+   "General Manager": "",
+   "Phone": "",
+   "Fax": "",
+   "WWW": "",
+   "KEP": "",
+   "Eft": 203,
+   "Swift": "BTFHTRIS"
+ },
+  {
+   "Bank Name": "Kuveyt Türk Katılım Bankası A.Ş.",
+   "Address": "",
+   "Chairman of the Board": "",
+   "General Manager": "",
+   "Phone": "",
+   "Fax": "",
+   "WWW": "",
+   "KEP": "",
+   "Eft": 205,
+   "Swift": "KTEFTRIS"
+ },
+  {
+   "Bank Name": "Türkiye Finans Katılım Bankası A.Ş.",
+   "Address": "",
+   "Chairman of the Board": "",
+   "General Manager": "",
+   "Phone": "",
+   "Fax": "",
+   "WWW": "",
+   "KEP": "",
+   "Eft": 206,
+   "Swift": "AFKBTRIS"
  }
 ]
