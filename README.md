@@ -1,2 +1,3 @@
-# turkish-banks
-All information about Turkish banks includes their EFT bank code and swift codes
+# TÜRK BANKALARI 
+Türk bankaları ve bu bankalara ait eft kodu, swift kodu gibi bilgilerin yer aldığı JSON dosyası.
+Dosyada 27.08.2018 tarihli Türkiye Borsalar Birliği'ne kayıtlı bankalar yer almaktadır.
